@@ -1,4 +1,9 @@
 var afinn_da = {
+"svin": -1,
+"perker": -2,
+"negere": -2,
+"neger": -2,
+"fede svin": -2,
 "absorberet":1,
 "acceptere":1,
 "accepterede":1,
