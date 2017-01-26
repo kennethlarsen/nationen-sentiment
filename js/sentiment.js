@@ -1,4 +1,8 @@
 var afinn_da = {
+"nu slapper du helt af": -1,
+"dværgmongol": -2,
+"negersvin": -2,
+"perkersvin": -2,
 "svin": -1,
 "perker": -2,
 "perkere": -2,
