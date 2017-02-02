@@ -1,4 +1,5 @@
 var afinn_da = {
+"spasser": -2,
 "p*rker": -2,
 "n**ger": -2,
 "nu slapper du helt af": -1,
